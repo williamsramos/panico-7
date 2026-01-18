@@ -1,5 +1,5 @@
 // 🔹 Data e hora da estreia de Pânico 7 (26/02/2026 às 22h no fuso local)
-const estreiaFilme = new Date(2026, 2, 26, 22, 0, 0); 
+const estreiaFilme = new Date("2026-02-26T22:00:00"); 
 // Mês começa em 0 (0 = janeiro, 1 = fevereiro, ...)
 
 // Elementos do HTML
